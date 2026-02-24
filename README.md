@@ -1,1 +1,1 @@
-# You can see only networking commands
+# This repository made for all devops notes
